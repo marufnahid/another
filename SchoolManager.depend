@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1625227219 source:f:\schoolmanager\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1624902463 source:f:\schoolmanager\auth.c
+
